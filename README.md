@@ -1,0 +1,12 @@
+bpb参数
+
+UUID	    
+TR_PASS	  
+
+PROXY_IP	 
+NAT64_PREFIX	
+
+SUB_PATH	   
+
+FALLBACK	 
+DOH_URL	    
